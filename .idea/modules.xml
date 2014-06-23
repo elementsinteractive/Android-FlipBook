@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/Android-FlipBook.iml" filepath="$PROJECT_DIR$/Android-FlipBook.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/FlipBook.iml" filepath="$PROJECT_DIR$/FlipBook.iml" />
+>>>>>>> 182964f7f80d88467510fc7d4aa370b416c6cd3a
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
